@@ -35,4 +35,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # POC1
+
+
+main.py -> Fast API Backend Connection file 
+db.py-> Inserting queries inside db (second idea)
+postgresql.py-> json file is getting stored inside the db
+database.sql -> creating tables queries
+models.py -> training the models to get stored 
+
 # POC1
